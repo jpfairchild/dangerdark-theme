@@ -1,0 +1,21 @@
+{
+  "name": "dangerdark",
+  "displayName": "DangerDark",
+  "description": "Dark Red Orange Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DangerDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DangerDark-color-theme.json"
+      }
+    ]
+  }
+}
